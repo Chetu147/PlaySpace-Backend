@@ -1,0 +1,26 @@
+{
+  "name": "cst3144_playspace",
+  "version": "1.0.0",
+  "description": "PlaySpace is a sports lesson booking platform built using Vue.js, HTML, CSS, and JavaScript. Users can explore sports lessons across the UAE, view prices and available slots, add lessons to their cart, and complete bookings through a simple checkout process.",
+  "main": "sports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetu147/CST3144_PLAYSPACE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Chetu147/CST3144_PLAYSPACE/issues"
+  },
+  "homepage": "https://github.com/Chetu147/CST3144_PLAYSPACE#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongodb": "^7.9.1"
+  }
+}
